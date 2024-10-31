@@ -6,10 +6,10 @@
   const client = new TwitterApi({
 
 
-    appKey: '0CooUh0yPiwhkJOqRBb9Dnlmg',
-    appSecret: 'jMrX1P5STcuhtiBq5fc4LEew93qrDwhzcXCtSBnwpYq81uBFER',
-    accessToken: '1851618365690740736-wbLbV6pWbrMGhDuKNLrY318ENEg8Bk',
-    accessSecret: 'u874ToGifyIgJBeCH25xH2JW0VCJbTTP2dk52XkiC00Rl',
+    appKey: '',
+    appSecret: '',
+    accessToken: '',
+    accessSecret: '',
   });
   
   
